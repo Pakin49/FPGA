@@ -1,0 +1,53 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+vmy_xor
+!s110 1727959099
+!i10b 1
+!s100 Fgm?gNjNONgYg32=UA?AJ3
+I9zA3=glZYi@:g[BMmK8TU1
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dC:/Work/FPGA/FIRST_XOR
+w1727958961
+8C:/Work/FPGA/FIRST_XOR/XOR_module.v
+FC:/Work/FPGA/FIRST_XOR/XOR_module.v
+L0 3
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z3 !s108 1727959099.000000
+!s107 C:/Work/FPGA/FIRST_XOR/XOR_module.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Work/FPGA/FIRST_XOR/XOR_module.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+vmy_xor_TB
+!s110 1727959100
+!i10b 1
+!s100 S]dLA9YM[_jdjJh?aXmd<0
+Im^UDV>XC4OMmO>m_dRDXA2
+R0
+R1
+w1727958767
+8C:/Work/FPGA/FIRST_XOR/XOR_module_TB.v
+FC:/Work/FPGA/FIRST_XOR/XOR_module_TB.v
+L0 3
+R2
+r1
+!s85 0
+31
+R3
+!s107 C:/Work/FPGA/FIRST_XOR/XOR_module_TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Work/FPGA/FIRST_XOR/XOR_module_TB.v|
+!i113 1
+R4
+R5
+nmy_xor_@t@b
