@@ -1,0 +1,53 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+vmajority
+Z0 !s110 1729160229
+!i10b 1
+!s100 Lg`8CozlHIm@NOAVUWbai3
+IGfNo]N2J][1nfVcR>VfJj2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Work/FPGA/Assignment2
+Z3 w1729160018
+8C:/Work/FPGA/Assignment2/majority.v
+FC:/Work/FPGA/Assignment2/majority.v
+L0 3
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1729160228.000000
+!s107 C:/Work/FPGA/Assignment2/majority.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Work/FPGA/Assignment2/majority.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vmajority_TB
+R0
+!i10b 1
+!s100 0JHYM2o6W5deZR?j1doi<0
+I[J^`S@^GG^ZY>NazK2J?e2
+R1
+R2
+R3
+8C:/Work/FPGA/Assignment2/testbench.v
+FC:/Work/FPGA/Assignment2/testbench.v
+L0 3
+R4
+r1
+!s85 0
+31
+!s108 1729160229.000000
+!s107 C:/Work/FPGA/Assignment2/testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Work/FPGA/Assignment2/testbench.v|
+!i113 1
+R5
+R6
+nmajority_@t@b

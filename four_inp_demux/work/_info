@@ -1,0 +1,53 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Work/FPGA/Assignment2
+vdemux_TB
+Z0 !s110 1729162126
+!i10b 1
+!s100 Nbn`jhB65o4?AeMeE_jX83
+InP;=[f8RM?;0Aji[VozQJ1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Work/FPGA/Assignment3
+Z3 w1729161146
+8C:/Work/FPGA/Assignment3/testbench.v
+FC:/Work/FPGA/Assignment3/testbench.v
+L0 3
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z5 !s108 1729162126.000000
+!s107 C:/Work/FPGA/Assignment3/testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Work/FPGA/Assignment3/testbench.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+ndemux_@t@b
+vfour_in_demux
+R0
+!i10b 1
+!s100 M:?M1f5Yo=icDX975[^R80
+IP9Q;HdRV_bbQkibG^EWDf1
+R1
+R2
+R3
+8C:/Work/FPGA/Assignment3/four_in_demux.v
+FC:/Work/FPGA/Assignment3/four_in_demux.v
+L0 4
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Work/FPGA/Assignment3/four_in_demux.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Work/FPGA/Assignment3/four_in_demux.v|
+!i113 1
+R6
+R7

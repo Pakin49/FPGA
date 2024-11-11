@@ -1,0 +1,53 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+vfour_to_one_mux
+!s110 1729177066
+!i10b 1
+!s100 ]I@5Tfdd]blUI@BbkFhH>0
+ICG1X7LITAnNBRCeeU_oz]0
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dC:/Work/FPGA/Assignment4_MUX
+Z2 w1729167992
+8C:/Work/FPGA/Assignment4_MUX/four_to_one_mux.v
+FC:/Work/FPGA/Assignment4_MUX/four_to_one_mux.v
+L0 3
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1729177066.000000
+!s107 C:/Work/FPGA/Assignment4_MUX/four_to_one_mux.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Work/FPGA/Assignment4_MUX/four_to_one_mux.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vmux_TB
+!s110 1729177067
+!i10b 1
+!s100 bMNKSPHCIX4?d23>_Pc1N3
+IC6mQfjE=2F9[3dH>d4lcj2
+R0
+R1
+R2
+8C:/Work/FPGA/Assignment4_MUX/testbench.v
+FC:/Work/FPGA/Assignment4_MUX/testbench.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Work/FPGA/Assignment4_MUX/testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Work/FPGA/Assignment4_MUX/testbench.v|
+!i113 1
+R5
+R6
+nmux_@t@b

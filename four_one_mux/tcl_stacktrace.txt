@@ -1,0 +1,10 @@
+Thu Oct 24 17:47:33 ICT 2024
+Trace back: invalid command name "::.welcome"
+    while executing
+"::.welcome _clrDestroyOnRelease"
+    (in namespace inscope "::WelcomeScreen" script line 1)
+    invoked from within
+"namespace inscope ::WelcomeScreen {::.welcome _clrDestroyOnRelease}"
+    (command bound to event)
+  <2:C:/intelFPGA/18.1/modelsim_ase/win32aloem/tk8.5/bgerror.tcl:92: ::tkerror {invalid command name "::.welcome"}
+  <1:eval:1: ::tk::dialog::error::bgerror {invalid command name "::.welcome"}
